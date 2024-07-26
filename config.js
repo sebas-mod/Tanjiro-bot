@@ -14,27 +14,27 @@ global.confirmCode = ''
 
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
 global.owner = [
-['573012482597', '👑 𝗖𝗿𝗲𝗮𝗱𝗼𝗿 👑', true],
-['573218138672', '𝗢𝘄𝗻𝗲𝗿 👑', true],
-['573106909511']]
+['5491140941814', '👑 𝗖𝗿𝗲𝗮𝗱𝗼𝗿 👑', true],
+['5491140941814', '𝗢𝘄𝗻𝗲𝗿 👑', true],
+['5491140941814']]
 
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
-global.mods = ['59169082575', '5492355505090', '51939041500', '51929972576', '5493794297363', '59168106005', '525610314499']
+global.mods = ['5491140941814']
 
 global.suittag = ['573012482597']
-global.prems = []
+global.prems = ['5491140941814']
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
-global.packname = '⪛✰ 𝐋𝐮𝐟𝐟𝐲 𝐁𝐨𝐭 - 𝐌𝐃 ✰⪜'
-global.author = 'Oғᴄ.Dɪᴇɢᴏ 👑'
-global.wm = '✨◌*̥₊ LᴜғғʏBᴏᴛ-MD ◌❐⚡༉'
-global.titulowm = 'LuffyBot-MD 🍟'
-global.titulowm2 = 'Ofc.Diego'
-global.igfg = '𝙾𝙵𝙲.𝙳𝙸𝙴𝙶𝙾'
-global.botname = 'Lᴜғғʏ Bᴏᴛ - MD 🚩'
-global.dev = '🚩 Powered By あ S_ᴅɪᴇɢᴏ あ'
-global.textbot = '𝗟𝘂𝗳𝗳𝘆𝗕𝗼𝘁 : 𝗢𝗳𝗰𝗗𝗶𝗲𝗴𝗼 🚩'
-global.vs = '2.0.2'
+global.packname = '𝚃𝙰𝙽𝙹𝙸𝚁𝙾-𝙱𝙾𝚃'
+global.author = '𝓢𝓔𝓑𝓐𝓢-𝓜𝓓 👑'
+global.wm = '𝚃𝙰𝙽𝙹𝙸𝚁𝙾-𝙱𝙾𝚃'
+global.titulowm = '𝚃𝙰𝙽𝙹𝙸𝚁𝙾-𝙱𝙾𝚃'
+global.titulowm2 = '𝓢𝓔𝓑𝓐𝓢-𝓜𝓓'
+global.igfg = '𝓢𝓔𝓑𝓐𝓢-𝓜𝓓'
+global.botname = '𝚃𝙰𝙽𝙹𝙸𝚁𝙾-𝙱𝙾𝚃 🚩'
+global.dev = '🚩 Powered By 𝓢𝓔𝓑𝓐𝓢-𝓜𝓓'
+global.textbot = '𝚃𝙰𝙽𝙹𝙸𝚁𝙾-𝙱𝙾𝚃 : 𝓢𝓔𝓑𝓐𝓢-𝓜𝓓 🚩'
+global.vs = '1.0.0'
 
 
 //• ↳ ◜𝑰𝑴𝑨́𝑮𝑬𝑵𝑬𝑺◞ • 🌇
@@ -44,7 +44,7 @@ global.imagen3 = fs.readFileSync('./Menu3.jpg')
 global.catalogo = fs.readFileSync('./media/luffyimg.jpg')
 
 //• ↳ ◜𝑭𝑨𝑲𝑬 𝑬𝑺𝑻𝑰𝑳𝑶◞ • 👒
-global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '👒 𝗦𝘂𝗽𝗲𝗿 𝗟𝘂𝗳𝗳𝘆𝗕𝗼𝘁 🍟', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
+global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '𝐬𝐮𝐩𝐞𝐫 𝐭𝐚𝐧𝐣𝐢𝐫𝐨-𝐛𝐨𝐭', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
 global.gp1 = 'https://chat.whatsapp.com/Em1J2VaglHc1fe26YtBDCS' //Grupo Oficial De Luffy
@@ -69,8 +69,8 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nLuffy`;
-global.nomorown = '573012482597';
+global.wm2 = `${dia} ${fecha}\ntanjiro`;
+global.nomorown = '5491140951814';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
