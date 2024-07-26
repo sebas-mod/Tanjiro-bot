@@ -26,14 +26,14 @@ global.prems = ['5491140941814']
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
 global.packname = '𝚃𝙰𝙽𝙹𝙸𝚁𝙾-𝙱𝙾𝚃'
-global.author = '𝓢𝓔𝓑𝓐𝓢-𝓜𝓓 👑'
+global.author = 'sebas-mod 👑'
 global.wm = '𝚃𝙰𝙽𝙹𝙸𝚁𝙾-𝙱𝙾𝚃'
 global.titulowm = '𝚃𝙰𝙽𝙹𝙸𝚁𝙾-𝙱𝙾𝚃'
-global.titulowm2 = '𝓢𝓔𝓑𝓐𝓢-𝓜𝓓'
-global.igfg = '𝓢𝓔𝓑𝓐𝓢-𝓜𝓓'
+global.titulowm2 = 'sebas-mod'
+global.igfg = 'sebas-mod'
 global.botname = '𝚃𝙰𝙽𝙹𝙸𝚁𝙾-𝙱𝙾𝚃 🚩'
-global.dev = '🚩 Powered By 𝓢𝓔𝓑𝓐𝓢-𝓜𝓓'
-global.textbot = '𝚃𝙰𝙽𝙹𝙸𝚁𝙾-𝙱𝙾𝚃 : 𝓢𝓔𝓑𝓐𝓢-𝓜𝓓 🚩'
+global.dev = '🚩 Powered By sebas-mod'
+global.textbot = '𝚃𝙰𝙽𝙹𝙸𝚁𝙾-𝙱𝙾𝚃 : sebas-mod🚩'
 global.vs = '1.0.0'
 
 
