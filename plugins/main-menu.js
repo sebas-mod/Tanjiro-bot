@@ -4,29 +4,29 @@ import fetch from 'node-fetch'
 import { xpRange } from '../lib/levelling.js'
 
 let tags = {
-  'main': 'INFO 📚',
-  'buscador': 'BUSQUEDAS 🔎',
-  'fun': 'JUEGOS 🎮',
-  'jadibot': 'SUB BOTS 🤖',
-  'rpg': 'RPG 🌠',
-  'rg': 'REGISTRO 📁',
-  'xp': 'EXP 🏷',
-  'sticker': 'STICKERS 🏞',
-  'anime': 'ANIMEA 🍧',
-  'database': 'DATABASE ✨️',
-  'fix': 'FIXMSGESPERA 💭',
-  'grupo': 'GRUPOS 👥',
-  'nable': 'ON / OFF 📴', 
-  'descargas': 'DESCARGAS 📥',
-  'youtube': 'YOUTUBE PLAY 📥',
-  'tools': 'HERRAMIENTAS 🔧',
-  'info': 'INFORMACIÓN 🐢',
-  'nsfw': 'NSFW 🔞', 
-  'owner': 'CREADOR 👑', 
-  'mods': 'STAFF tanjiro 🍟',
-  'audio': 'AUDIOS 🔉', 
-  'ai': 'AI 🌹',
-  'transformador': 'CONVERTIDORES 🚩',
+  'main': '𝐈𝐍𝐅𝐎 📚',
+  'buscador': '𝐁𝐔𝐒𝐐𝐔𝐄𝐃𝐀𝐒 🔎',
+  'fun': '𝐉𝐔𝐄𝐆𝐎𝐒 🎮',
+  'jadibot': '𝐒𝐔𝐁 𝐁𝐎𝐓𝐒 🤖',
+  'rpg': '𝐑𝐏𝐆 🌠',
+  'rg': '𝐑𝐄𝐆𝐈𝐒𝐓𝐑𝐎 📁',
+  'xp': '𝐄𝐗𝐏 🏷',
+  'sticker': '𝐒𝐓𝐈𝐂𝐊𝐄𝐑𝐒 🏞',
+  'anime': '𝐀𝐍𝐈𝐌𝐄𝐀 🍧',
+  'database': '𝐃𝐀𝐓𝐀𝐁𝐀𝐒𝐄 ✨️',
+  'fix': '𝐅𝐈𝐗𝐌𝐒𝐆𝐄𝐒𝐏𝐄𝐑𝐀 💭',
+  'grupo': '𝐆𝐑𝐔𝐏𝐎𝐒 👥',
+  'nable': '𝐎𝐍 / 𝐎𝐅𝐅 📴', 
+  'descargas': '𝐃𝐄𝐒𝐂𝐀𝐑𝐆𝐀𝐒 📥',
+  'youtube': '𝐘𝐎𝐔𝐓𝐔𝐁𝐄 𝐏𝐋𝐀𝐘 📥',
+  'tools': '𝐇𝐄𝐑𝐑𝐀𝐌𝐈𝐄𝐍𝐓𝐀𝐒 🔧',
+  'info': '𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐂𝐈𝐎𝐍 🐢',
+  'nsfw': '𝐍𝐒𝐅𝐖 🔞', 
+  'owner': '𝐂𝐑𝐄𝐀𝐃𝐎𝐑 👑', 
+  'mods': '𝐒𝐓𝐀𝐅𝐅 𝐓𝐀𝐍𝐉𝐈𝐑𝐎 🍟',
+  'audio': '𝐀𝐔𝐃𝐈𝐎𝐒 🔉', 
+  'ai': '𝐀𝐈 🌹',
+  'transformador': '𝐂𝐎𝐍𝐕𝐄𝐑𝐓𝐈𝐃𝐎𝐑𝐄𝐒 🚩',
 }
 
 const defaultMenu = {
@@ -56,7 +56,7 @@ const defaultMenu = {
 %readmore
 *•°•°•°•°•°•°•°•°•°•°•°*
 
-\t*L I S T A  -  D E  -  C O M A N D O S* 
+\t*Ｌ Ｉ Ｓ Ｔ Ａ - ＤＥ - Ｃ Ｏ Ｍ Ａ Ｎ Ｄ Ｏ Ｓ* 
 `.trimStart(),
       header: '╭───═≫ %category ≪═────⋆\n│╭───────────────···',
   body: '┃•✯ %cmd\n',
