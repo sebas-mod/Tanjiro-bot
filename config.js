@@ -49,7 +49,7 @@ global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(fa
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
 global.gp1 = 'https://chat.whatsapp.com/EVl0wxlCww74HV3vvZq83a' //Grupo global 1
 global.gp2 = 'https://chat.whatsapp.com/DVt1mhZ6H7EIpt4lmjURwq' //grupo global 2
-global.gp3 = 'https://whatsapp.com/channel/0029VafHsEoBqbr3qlW1aX0U' //canal oficial de tanjiro-bot
+global.channel = 'https://whatsapp.com/channel/0029VafHsEoBqbr3qlW1aX0U' //canal oficial de tanjiro-bot
 
 //• ↳ ◜𝑻𝑰𝑬𝑴𝑷𝑶◞ • 🕒
 global.d = new Date(new Date + 3600000);
