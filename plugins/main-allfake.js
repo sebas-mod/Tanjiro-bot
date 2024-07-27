@@ -97,8 +97,8 @@ global.icono = [
 'https://qu.ax/ySOk.jpg',
 'https://qu.ax/jhHZ.jpg',
 'https://qu.ax/oid.jpg',
-'https://qu.ax/nJCz.jpeg',
-'https://qu.ax/rbUm.jpeg'
+'https://qu.ax/jhQQ.jpeg',
+'https://qu.ax/hWZM.jpeg'
 ].getRandom()
 
 global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363263466636910@newsletter", serverMessageId: 100, newsletterName: '『•» 𝐓𝐄𝐀𝐌 𝐓𝐀𝐍𝐉𝐈𝐑𝐎 𝐁𝐎𝐓 «•』', }, externalAdReply: { showAdAttribution: true, title: packname, body: '🍟 ¡Super Bot De WhatsApp!', mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
