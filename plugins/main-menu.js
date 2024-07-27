@@ -40,7 +40,7 @@ const defaultMenu = {
 ┃•✯ 🍂 *Modo* Privado
 ┃•✯ ✨️ *Baileys:* Multi Device
 ┃•✯ ⌛️ *Tiempo Activo:* %muptime
-┬│✯ 🫂 *Usuarios:* %totalreg
+┬┃•✯ 🫂 *Usuarios:* %totalreg
 │╰────────────────···
 ╰────────═┅═─────────
 %readmore
