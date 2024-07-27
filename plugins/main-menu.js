@@ -23,7 +23,7 @@ let tags = {
   'info': 'INFORMACIÓN 🐢',
   'nsfw': 'NSFW 🔞', 
   'owner': 'CREADOR 👑', 
-  'mods': 'STAFF LUFFY 🍟',
+  'mods': 'STAFF tanjiro 🍟',
   'audio': 'AUDIOS 🔉', 
   'ai': 'AI 🌹',
   'transformador': 'CONVERTIDORES 🚩',
