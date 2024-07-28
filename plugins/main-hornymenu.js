@@ -69,8 +69,8 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
   }
 };
 handler.tags = ['main']
-handler.help = ['hornymenu']
-handler.command = /^(menuhorny|hornymenu)$/i;
+handler.help = ['menu+18']
+handler.command = /^(menuhorny|menu+18)$/i;
 handler.exp = 50;
 handler.fail = null;
 export default handler;
