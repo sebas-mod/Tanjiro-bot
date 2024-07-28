@@ -6,8 +6,8 @@ var number = text.split`@`[1]
 }else if(!isNaN(text)) {
 var number = text
 }
-if(!text && !m.quoted) return conn.reply(m.chat, `✳️ ${mssg.useCmd()} \n *${usedPrefix + command}* @tag`, m)
-if(number.length > 13 || (number.length < 11 && number.length > 0)) return conn.reply(m.chat, `✳️ ${mssg.numError}`, m)
+if(!text && !m.quoted) return conn.reply(m.chat, `✳️ PARA QUITAR ADMIN \n *${usedPrefix + command}* @tag`, m)
+if(number.length > 13 || (number.length < 11 && number.length > 0)) return conn.reply(m.chat, `✳️ ERROR`, m)
 
 try {
 if(text) {
@@ -20,7 +20,7 @@ var user = number + '@s.whatsapp.net'
 } catch (e) {
 } finally {
 conn.groupParticipantsUpdate(m.chat, [user], 'demote')
-m.reply(`✅ ${mssg.demote}`)
+m.reply(`✅ EJECUTANDO COMANDO`)
 }
 
 }
