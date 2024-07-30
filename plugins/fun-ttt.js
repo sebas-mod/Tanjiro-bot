@@ -3,7 +3,7 @@ import TicTacToe from '../lib/tictactoe.js'
 let handler = async (m, { conn, usedPrefix, command, text }) => {
      conn.game = conn.game ? conn.game : {}
      if (Object.values(conn.game).find(room => room.id.startsWith('tictactoe') && [room.game.playerX, room.game.playerO].includes(m.sender))) throw `✳️ aun estas jugando para cerrar sesion usa : *${usedPrefix}delttt*`
-     if (!text) throw `✳️ Give the room a name`
+     if (!text) throw `✳️ dale un nombre a la sala o pon nueva sala`
      let room = Object.values(conn.game).find(room => room.state === 'espera' && (text ? room.name === text : true))
      // m.reply('[WIP Feature]')
      if (room) {
