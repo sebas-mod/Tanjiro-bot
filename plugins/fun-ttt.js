@@ -7,7 +7,7 @@ if (!text) throw ` ✳️ Dale un nombre a la sala`
 let room = Object.values(conn.game).find(room => room.state === 'WAITING' && (text ? room.name === text : true))
 // m.reply('[WIP Feature]')
 if (room) {
-m.reply('✅ Se encontró un ')
+m.reply('✅ Se encontró un jugador')
 room.o = m.chat
 room.game.playerO = m.sender
 room.state = 'JUGANDO'
