@@ -5,7 +5,7 @@ delete conn.game[room.id]
 await conn.reply(m.chat, `https://github.com/jayden-official ✅ *tictactoe session restarted 🎮*`, m)
 }
 handler.help = ['delttt']
-handler.tags = ['game']
+handler.tags = ['fun']
 handler.command = ['delttc', 'delttt', 'delxo']
 
 export default handler
