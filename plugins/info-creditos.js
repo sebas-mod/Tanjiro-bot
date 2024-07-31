@@ -48,6 +48,6 @@ global.fcontact = {
 }
 handler.help = ['Creditos']
 handler.tags = ['main']
-handler.command = ['cred'] 
+handler.command = ['crdts'] 
 
 export default handler
