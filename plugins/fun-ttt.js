@@ -69,7 +69,7 @@ ${arr.slice(6).join('')}
 }
 
 handler.help = ['tictactoe <nombre de sala>']
-handler.tags = ['juegos']
+handler.tags = ['fun']
 handler.command = ['tictactoe', 'ttc', 'ttt', 'xo']
 
 export default handler
