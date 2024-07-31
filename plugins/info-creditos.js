@@ -33,7 +33,7 @@ global.fcontact = {
         },
         message: {
             contactMessage: {
-                displayName: `\n ♛ 𝐓𝐀𝐍𝐉𝐈𝐑𝐎 𝐁𝐎𝐓 ♛ \n`,
+                displayName: `\n♛ 𝐓𝐀𝐍𝐉𝐈𝐑𝐎 𝐁𝐎𝐓 ♛\n`,
                 vcard: `BEGIN:VCARD\nVERSION:3.0\nN:;a,;;;\nFN:xd\nitem1.TEL;waid=${m.sender.split("@")[0]}:${m.sender.split("@")[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`,
             },
         },
