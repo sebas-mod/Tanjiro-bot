@@ -22,7 +22,7 @@ let m2 = `
  ╭──►🔰𝗣𝗥𝗢𝗬𝗘𝗖𝗧𝗢 𝗥𝗘𝗔𝗟𝗜𝗭𝗔𝗗𝗢 𝗖𝗢𝗡: 
  ┆"🫧 丂ㄒ卂千千 乂乃 🫧"
  ╰─────────────►`
-        let pp = 'https://qu.ax/ySOk.jpg' 
+        let pp = 'https://telegra.ph/file/3de573c9b2837ef3edcfc.jpg' 
 
 global.fcontact = {
         key: {
