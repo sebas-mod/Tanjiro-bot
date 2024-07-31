@@ -23,8 +23,7 @@ let m2 = `
 • · ─ ─ ─ ─ ─ ─ · •
 │ ► 𝐒𝐓𝐀𝐅𝐅 𝐓𝐈𝐓𝐀𝐍𝐈𝐔𝐌 - 𝐓𝐄𝐀𝐌🫧
 • · ─ ─ ─ ─ ─ ─ · •
-        let pp = 'https://telegra.ph/file/88a0f709d1b7f2878acc2.mp4' 
- 
+        let pp = 'https://telegra.ph/file/88a0f709d1b7f2878acc2.mp4'
 
 global.fcontact = {
         key: {
@@ -34,8 +33,7 @@ global.fcontact = {
         },
         message: {
             contactMessage: {
-                displayName: `\n ♛ 𝐓𝐀𝐍𝐉𝐈𝐑𝐎 𝐁𝐎𝐓 ♛ \n
-𝙇𝘼 𝙈𝙀𝙅𝙊𝙍 𝙍𝙀𝙔𝙉𝘼`,
+                displayName: `\n ♛ 𝐓𝐀𝐍𝐉𝐈𝐑𝐎 𝐁𝐎𝐓 ♛ \n`,
                 vcard: `BEGIN:VCARD\nVERSION:3.0\nN:;a,;;;\nFN:xd\nitem1.TEL;waid=${m.sender.split("@")[0]}:${m.sender.split("@")[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`,
             },
         },
@@ -51,6 +49,6 @@ global.fcontact = {
 }
 handler.help = ['Creditos']
 handler.tags = ['main']
-handler.command = ['Creditos', 'creditos', 'credito', 'credit'] 
+handler.command = ['crdts'] 
 
 export default handler
