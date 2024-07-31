@@ -3,7 +3,7 @@ let handler = async function (m, { conn, text, usedPrefix }) {
     m.react('⭐')
 
 let m2 = `
-╭──►🌸 _*Yumiko Bot*_ 🌸
+╭──►♛𝐓𝐀𝐍𝐉𝐈𝐑𝐎 𝐁𝐎𝐓♛
 ╰─────────────►
  ╭──► *Créditos al mejor* 
  ┆(𝗦𝘁𝗮𝗳𝗳)
