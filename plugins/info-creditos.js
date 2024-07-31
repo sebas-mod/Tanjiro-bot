@@ -43,7 +43,7 @@ global.fcontact = {
       ['⏍ Info', `${usedPrefix}botinfo`],
       ['⌬ Grupos', `${usedPrefix}gpdylux`]
     ],m, rpyt)*/
-    conn.sendFile(m.chat, pp, 'menu.jpg', m2, m, null, fwc)
+    conn.sendFile(m.chat, pp, 'menu.jpg', m2, m, null, fake)
 
 }
 handler.help = ['Creditos']
