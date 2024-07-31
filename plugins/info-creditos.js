@@ -38,7 +38,7 @@ global.fcontact = {
             },
         },
     };
-       await conn.reply(m.chat, '𝘾𝘼𝙍𝙂𝘼𝙉𝘿𝙊 𝘾𝙍𝙀𝘿𝙄𝙏𝙊𝙎🐢...', fcontact);
+ await conn.reply(m.chat,'𝘾𝘼𝙍𝙂𝘼𝙉𝘿𝙊🐢...', fcontact);
     /*conn.sendButton(m.chat, m2, mssg.ig, pp, [
       ['⏍ Info', `${usedPrefix}botinfo`],
       ['⌬ Grupos', `${usedPrefix}gpdylux`]
