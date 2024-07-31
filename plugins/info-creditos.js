@@ -1,29 +1,34 @@
 let handler = async function (m, { conn, text, usedPrefix }) {
 
-    m.react('🫡')
+    m.react('⭐')
 
 let m2 = `
-│ ► ♛ 𝐓𝐀𝐍𝐉𝐈𝐑𝐎 𝐁𝐎𝐓 ♛
-
-• · ─ ─ ─ ─ ─ ─ · •
-│ ► 𝙘𝙧𝙚𝙙𝙞𝙩𝙤𝙨 𝙖 𝙢𝙞𝙨 𝙘𝙤𝙡𝙖𝙗𝙤𝙧𝙖𝙙𝙤𝙧𝙚𝙨 ♛
-• · ─ ─ ─ ─ ─ ─ · •
+╭──►🌸 _*Yumiko Bot*_ 🌸
+╰─────────────►
+ ╭──► *Créditos al mejor* 
+ ┆(𝗦𝘁𝗮𝗳𝗳)
+ ╰─────────────► 
+       ──────────── 
+ ╭──►𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗼𝘀 𝗚𝗶𝘁𝗵𝘂𝗯 
+ ┆
+ ┆ Angelito | 𝗚𝗶𝘁𝗵𝘂𝗯: https://github.com/Angelito-OFC
+ ┆
+ ┆Alee | 𝗚𝗶𝘁𝗵𝘂𝗯: https://github.com/ale-rmz
+ ╰─────────────►
+  
  
- ♛ 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙤 𝙙𝙚 𝙢𝙞𝙨 𝙘𝙤𝙡𝙖𝙗𝙤𝙧𝙖𝙙𝙤𝙧𝙚𝙨 ♛
-• · ─ ─ ─ ─ ─ ─ · •
-│ ► Angelito: https://github.com/Angelito-OFC
-• · ─ ─ ─ ─ ─ ─ · •
- 
-   ♛ 𝙣𝙪𝙢𝙚𝙧𝙤 ♛
-• · ─ ─ ─ ─ ─ ─ · •
-│ ► Angelito:wa.me/59168683798
-• · ─ ─ ─ ─ ─ ─ · •
+ ╭──► 🌸 𝗡𝘂𝗺𝗲𝗿𝗼𝘀 🌸
+ ┆
+ ┆ Angelito:+591 68683798
+ ┆
+ ┆ Ale:+54 9 358 560-4128
+ ┆ 
+ ╰─────────────►
 
- ♛ 𝗣𝗥𝗢𝗬𝗘𝗖𝗧𝗢 𝗥𝗘𝗔𝗟𝗜𝗭𝗔𝗗𝗢 𝗖𝗢𝗡:
-• · ─ ─ ─ ─ ─ ─ · •
-│ ► 𝐒𝐓𝐀𝐅𝐅 𝐓𝐈𝐓𝐀𝐍𝐈𝐔𝐌 - 𝐓𝐄𝐀𝐌🫧
-• · ─ ─ ─ ─ ─ ─ · •
-        let pp = 'https://telegra.ph/file/88a0f709d1b7f2878acc2.mp4' 
+ ╭──►🔰𝗣𝗥𝗢𝗬𝗘𝗖𝗧𝗢 𝗥𝗘𝗔𝗟𝗜𝗭𝗔𝗗𝗢 𝗖𝗢𝗡: 
+ ┆"🫧 丂ㄒ卂千千 乂乃 🫧"
+ ╰─────────────►`
+        let pp = 'https://i.ibb.co/FqPNdLD/file.jpg' 
 
 global.fcontact = {
         key: {
@@ -33,21 +38,23 @@ global.fcontact = {
         },
         message: {
             contactMessage: {
-                displayName: `\n ♛ 𝐓𝐀𝐍𝐉𝐈𝐑𝐎 𝐁𝐎𝐓 ♛ \n`,
+                displayName: `\n 🌸 𝙔𝙐𝙈𝙄𝙆𝙊 𝘽𝙊𝙏 🌸 \n
+𝙇𝘼 𝙈𝙀𝙅𝙊𝙍 𝙍𝙀𝙔𝙉𝘼`,
                 vcard: `BEGIN:VCARD\nVERSION:3.0\nN:;a,;;;\nFN:xd\nitem1.TEL;waid=${m.sender.split("@")[0]}:${m.sender.split("@")[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`,
             },
         },
     };
- await conn.reply(m.chat,'𝘾𝘼𝙍𝙂𝘼𝙉𝘿𝙊...', fcontact);
+
+    await conn.reply(m.chat, '🌸 𝙇𝙊𝘼𝘿𝙄𝙉𝙂....🌸', fcontact);
     /*conn.sendButton(m.chat, m2, mssg.ig, pp, [
       ['⏍ Info', `${usedPrefix}botinfo`],
       ['⌬ Grupos', `${usedPrefix}gpdylux`]
     ],m, rpyt)*/
-    conn.sendFile(m.chat, pp, 'menu.jpg', m2, m, null, rcanal)
+    conn.sendFile(m.chat, pp, 'menu.jpg', m2, m, null, fwc)
 
 }
 handler.help = ['Creditos']
 handler.tags = ['main']
-handler.command = ['crdts'] 
+handler.command = ['Creditos', 'creditos', 'credito', 'credit'] 
 
 export default handler
