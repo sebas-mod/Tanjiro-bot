@@ -24,14 +24,9 @@
 
 --- 
 
-### `🚩 DESARROLLADORES`
-<a href="https://github.com/sebas-mod/Tanjiro-bot/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=sebas-mod/tanjiro-bot" /> 
-</a>
-
 ### `✨️ AGRADECIMIENTOS`
 <a
-href="https://github.com/Angelito-OFC"><img src="https://github.com/Angelito-OFC.png" width="120" height="120" alt="Agradecimientos"/></a>
+href="https://github.com/Angelito-OFC"><img src="https://github.com/Angelito-OFC.png" width="120" height="120" alt="Agradecimiento"/></a>
 
 ### `🍟 CREADOR`
 <a
