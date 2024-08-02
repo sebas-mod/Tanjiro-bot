@@ -2,13 +2,9 @@
 
 ## **`🍟 tanjiro bot - MD`**
 
-![tanjirobot](https://telegra.ph/file/a7a9798496639ce074237.jpg)
+![tanjirobot](https://telegra.ph/file/3de573c9b2837ef3edcfc.jpg)
 
 ---
-
-### <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Prueba El Bot Aqui" width="42" height="42"> Prueba El Bot Aqui
-
-
 > Bot en creación pronto se agregaran más cosas 
 
 - [x] Interacción con voz y texto
@@ -29,18 +25,18 @@
 --- 
 
 ### `🚩 DESARROLLADORES`
-<a href="https://github.com/OfcDiego/LuffyBot-MD/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=OfcDiego/LuffyBot-MD" /> 
+<a href="https://github.com/sebas-mod/Tanjiro-bot/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=sebas-mod/tanjiro-bot" /> 
 </a>
 
 ### `✨️ AGRADECIMIENTOS`
 <a
-href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="120" height="120" alt="Agradecimientos"/></a>
+href="https://github.com/Angelito-OFC"><img src="https://github.com/Angelito-OFC.png" width="120" height="120" alt="Agradecimientos"/></a>
 
 ### `🍟 CREADOR`
 <a
-href="https://github.com/OfcDiego"><img src="https://github.com/OfcDiego.png" width="130" height="130" alt="Diego"/></a>
+href="https://github.com/sebas-mod"><img src="https://github.com/sebas-mod.png" width="130" height="130" alt="sebas"/></a>
 
-> Copyright (c) 2024 **[OfcDiego](https://github.com/OfcDiego/LuffyBot-MD)**.
+> Copyright (c) 2024 **[sebas-mod](https://github.com/sebas-mod/Tanjiro-bot)**.
 
 **`¡GRACIAS POR PREFERIRNOS!` 🍟**
