@@ -17,10 +17,10 @@ const handler = async (m, {conn, usedPrefix}) => {
   const old = performance.now();
   const neww = performance.now();
   const speed = neww - old;
-  const info = `https://github.com/jayden-official 𝗧𝗔𝗕𝗟𝗘 𝐁𝐘: ~superbot~ꪶ⃬🎪ꫂཽ🔥
+  const info = ` 𝗧𝗔𝗕𝗟𝗘 𝐁𝐘: tanjiro-bot🔥
 
 
-𝗧𝗔𝗕𝗟𝗘 𝗙𝗢𝗥 𝗟𝗘𝗧𝗧𝗘𝗥𝗦 🌀
+tabla de letras 🌀
 𝛢 𝛥 𝛬  𝜜 𝜟 𝜵 𝐴 𝐀 𝑨 𝙰 卂 么 入 刄 公
 B 𝛣 𝚩 𝜝 𝐵 ℬ 𝓑 𝕭 乃 岌 多仍
 C 𝐂 𝑪 𝐶 𝓒  𝕮 匚 ር ℂ
