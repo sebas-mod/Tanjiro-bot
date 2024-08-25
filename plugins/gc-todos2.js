@@ -10,7 +10,7 @@ const handler = async (m, {isOwner, isAdmin, conn, text, participants, args, com
   }
   const pesan = args.join` `;
   const oi = `${pesan}`;
-  let teks = `𝙏𝘼𝙉𝙅𝙄𝙍𝙊 𝘽𝙊𝙏 ✨*\n\n𝙋𝙖𝙧𝙩𝙞𝙘𝙞𝙥𝙖𝙣𝙩𝙚𝙨:  ${participants.length}* ${oi}\n\n┌──│ ♛►𝙍𝙀𝙑𝙄𝙑𝘼𝙉 𝙁𝘼𝙉𝙏𝘼𝙎𝙈𝘼𝙎👻\n`;
+  let teks = `𝙏𝘼𝙉𝙅𝙄𝙍𝙊 𝘽𝙊𝙏*\n\n𝙋𝙖𝙧𝙩𝙞𝙘𝙞𝙥𝙖𝙣𝙩𝙚𝙨:  ${participants.length}* ${oi}\n\n┌──│ ♛►𝙍𝙀𝙑𝙄𝙑𝘼𝙉 𝙁𝘼𝙉𝙏𝘼𝙎𝙈𝘼𝙎👻\n`;
   for (const mem of participants) {
     teks += `│ ♛►@${mem.id.split('@')[0]}\n`;
   }
