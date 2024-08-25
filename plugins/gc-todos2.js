@@ -19,9 +19,9 @@ const handler = async (m, {isOwner, isAdmin, conn, text, participants, args, com
 by: 𝙎𝙚𝙗𝙖𝙨 𝙈𝙤𝙙`;
   conn.sendMessage(m.chat, {text: teks, mentions: participants.map((a) => a.id)} );
 };
-handler.help = ['invocar <mesaje>', ' <mesaje>'];
-handler.tags = ['group'];
-handler.command = /^(invocar)$/i;
+handler.help = ['todos <mesaje>', ' <mesaje>'];
+handler.tags = ['grupo'];
+handler.command = /^(todos)$/i;
 handler.admin = true;
 handler.group = true;
 export default handler;
