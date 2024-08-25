@@ -19,9 +19,9 @@ const handler = async (m, {isOwner, isAdmin, conn, text, participants, args, com
 © 2024 Starlights Team | All rights reserved`;
   conn.sendMessage(m.chat, {text: teks, mentions: participants.map((a) => a.id)} );
 };
-handler.help = ['todos <mesaje>', ' <mesaje>'];
+handler.help = ['invocar <mesaje>', ' <mesaje>'];
 handler.tags = ['group'];
-handler.command = /^(todos)$/i;
+handler.command = /^(invocar)$/i;
 handler.admin = true;
 handler.group = true;
 export default handler;
