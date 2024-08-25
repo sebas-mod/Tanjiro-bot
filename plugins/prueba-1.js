@@ -291,9 +291,9 @@ H⃟༻ I⃟༻ J⃟༻K⃟༻ L⃟༻M⃟༻ N⃟༻O⃟༻ P⃟༻ Q⃟༻R⃟
       previewType: 0, thumbnail: fs.readFileSync('./Menu2.jpg'),
       sourceUrl: ``}}});
 };
-handler.help = ['roax'];
-handler.tags = ['roax'];
-handler.command = /^(symbols)$/i;
+handler.help = ['diseños'];
+handler.tags = ['main'];
+handler.command = /^(diseños)$/i;
 export default handler;
 
 function clockString(ms) {
