@@ -15,7 +15,7 @@ global.confirmCode = ''
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
 global.owner = [
 ['5491140951814', '👑 𝗖𝗿𝗲𝗮𝗱𝗼𝗿 👑', true],
-['59168683798', 'Colab 🐈‍⬛', true],
+['', 'Colab 🐈‍⬛', true],
 ['5491140951814']]
 
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
@@ -32,7 +32,7 @@ global.titulowm = '𝚃𝙰𝙽𝙹𝙸𝚁𝙾-𝙱𝙾𝚃'
 global.titulowm2 = 'sebas-mod'
 global.igfg = 'sebas-mod'
 global.botname = '𝚃𝙰𝙽𝙹𝙸𝚁𝙾-𝙱𝙾𝚃 🚩'
-global.dev = '🚩 Powered By sebas-mod'
+global.dev = '🚩 By sebas-mod'
 global.textbot = '𝚃𝙰𝙽𝙹𝙸𝚁𝙾-𝙱𝙾𝚃 : sebas-mod🚩'
 global.vs = '1.0.0'
 
@@ -47,10 +47,10 @@ global.catalogo = fs.readFileSync('./media/luffyimg.jpg')
 global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '𝐬𝐮𝐩𝐞𝐫 𝐭𝐚𝐧𝐣𝐢𝐫𝐨-𝐛𝐨𝐭', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp1 = 'https://chat.whatsapp.com/EVl0wxlCww74HV3vvZq83a' //Grupo global 1
-global.gp2 = 'https://chat.whatsapp.com/DVt1mhZ6H7EIpt4lmjURwq' //grupo global 2
+global.gp1 = 'https://chat.whatsapp.com/DJkL87Jl3qFCRCUNt19UlO' //Grupo global 
+global.gp2 = 'https://chat.whatsapp.com/DJkL87Jl3qFCRCUNt19UlO' //grupo global
 global.channel = 'https://whatsapp.com/channel/0029VafHsEoBqbr3qlW1aX0U' //canal oficial de tanjiro-bot
-global.channel2 = 'https://whatsapp.com/channel/0029VafjvaaEgGfOe5KdmX1n' //canal oficial de Titanium Team 
+global.channel2 = 'https://whatsapp.com/channel/0029VafHsEoBqbr3qlW1aX0U' //canal oficial de tanjiro-bot
 
 //• ↳ ◜𝑻𝑰𝑬𝑴𝑷𝑶◞ • 🕒
 global.d = new Date(new Date + 3600000);
