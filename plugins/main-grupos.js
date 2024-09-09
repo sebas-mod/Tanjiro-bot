@@ -4,7 +4,7 @@ let handler  = async (m, { conn, usedPrefix, command }) => {
 
 let grupos = `*Hola!, te invito a unirte a los grupos oficiales de del Bot para convivir con la comunidad :D* 🍂
 
-1- 【 ✰ Luffy Bot - MD ✰ 】
+1- 【 ✰ 𝑻𝒂𝒏𝒋𝒊𝒓𝒐 - 𝑩𝒐𝒕✰ 】
 *✰* ${gp1}
 
 *─ׄ─ׄ⭒─ׄ─ׅ─ׄ⭒─ׄ─ׅ─ׄ⭒─ׄ─ׅ─ׄ⭒─ׄ─ׅ─ׄ⭒─ׄ─ׄ*
@@ -42,5 +42,5 @@ await m.react(emojis)
 }
 handler.help = ['grupos']
 handler.tags = ['main']
-handler.command = /^(grupos|gruposluffy|gpluffy|linkluffy|luffylink|luffygrupos)$/i
+handler.command = /^(grupos|grupostanjiro|gptanjiro|linktanjito|tanjirolink|tanjirogrupos)$/i
 export default handler
