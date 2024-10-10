@@ -187,7 +187,7 @@ await conn.sendFile(m.chat, imagen1, 'luffy.jpg', text.trim(), fkontak, null, rc
 }
 handler.help = ['menu']
 handler.tags = ['main']
-handler.command = ['menu', 'menú', 'menuall', 'allmenú', 'allmenu', 'menucompleto'] 
+handler.command = ['menu', 'menú', 'menuall', 'allmenú', 'allmenu', 'menuu'] 
 handler.register = true
 
 export default handler
